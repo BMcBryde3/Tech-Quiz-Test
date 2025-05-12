@@ -1,4 +1,3 @@
-
 import { defineConfig } from 'cypress';
 import customViteConfig from './vite.config';
 
